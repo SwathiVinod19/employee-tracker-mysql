@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker-mysql",
+  "version": "1.0.0",
+  "description": "A command line application to manage company's employee database using Node js, Inquirer and MySQL",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciiart-logo": "^0.2.7",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.5.1"
+  }
+}
