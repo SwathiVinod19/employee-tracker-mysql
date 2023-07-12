@@ -128,7 +128,7 @@ https://drive.google.com/file/d/1bg5cJnGzn2gbXB1QZGyVg5jjp8JYTDfn/view
 
 ## Links
 
-https://github.com/SwathiVinod19/sql-employee-tracker
+https://github.com/SwathiVinod19/employee-tracker-mysql
 
 https://drive.google.com/file/d/1bg5cJnGzn2gbXB1QZGyVg5jjp8JYTDfn/view
 
