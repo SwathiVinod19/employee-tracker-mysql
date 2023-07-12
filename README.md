@@ -165,4 +165,4 @@ Peer learning
 
 ## Acknowledgements
 
-I would like to thank my tutor, Instructor, TA and peers for their support and guidance
+I struggled at multiple areas in this challenge. I would like to thank my tutor, Instructor, TA and peers for their support and guidance.
