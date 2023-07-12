@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-SwathiVinod19-black.svg?logo=github)](https://github.com/Swathivinod19)
 
 
-# sql-employee-tracker
+# employee-tracker-mysql
 A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 ## Description
