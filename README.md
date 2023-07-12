@@ -96,23 +96,29 @@ THEN I am prompted to select an employee to update and their new role and this i
 <br>  
 
 ## Screenshots
-![employee-tracker-one](https://github.com/SwathiVinod19/sql-employee-tracker/assets/129353324/a5ba4bc5-28e8-4ef9-83ad-e2a25ac18003)
+
+![employee-tracker-one](https://github.com/SwathiVinod19/employee-tracker-mysql/assets/129353324/cf22e38a-5576-49e7-9bbe-05f18636443e)
 
 node server.js
 
-![employee-tracker-view](https://github.com/SwathiVinod19/sql-employee-tracker/assets/129353324/904bcb80-a449-4232-bfa7-509c2c51ce59)
+![employee-tracker-view](https://github.com/SwathiVinod19/employee-tracker-mysql/assets/129353324/9134a421-977f-46ab-8d53-e5add86c573a)
+
 View deptartment, roles
 
-![employee-tracker-update-employee-role](https://github.com/SwathiVinod19/sql-employee-tracker/assets/129353324/519e3220-d9f0-4f03-a465-6c5971eccf04)
+![employee-tracker-update-employee-role](https://github.com/SwathiVinod19/employee-tracker-mysql/assets/129353324/f03e261b-630f-40eb-b378-14265e4e4549)
+
 Update an employee role
 
-![employee-tracker-add-employee](https://github.com/SwathiVinod19/sql-employee-tracker/assets/129353324/1b9243a0-9ae8-466e-a69f-4648c96e563c)
+![employee-tracker-add-employee](https://github.com/SwathiVinod19/employee-tracker-mysql/assets/129353324/4c56fba1-4c13-4d72-bafb-30f2ebecfe48)
+
 Add an employee
 
-![employee-tracker-add -a-dept](https://github.com/SwathiVinod19/sql-employee-tracker/assets/129353324/6f8e6d17-b5ef-4b01-866c-bc2083785dc5)
+![employee-tracker-add -a-dept](https://github.com/SwathiVinod19/employee-tracker-mysql/assets/129353324/ae0a97d7-8298-4f42-83e6-8ab784b888ad)
+
 Add a Department
 
-![employee-tracker-view-by](https://github.com/SwathiVinod19/sql-employee-tracker/assets/129353324/d051ccfb-797b-4ea1-985a-366bc68cd863)
+![employee-tracker-view-by](https://github.com/SwathiVinod19/employee-tracker-mysql/assets/129353324/f7840b00-380b-4344-a4b1-2ac961b29d96)
+
 View by Manager
 
 
